@@ -1,26 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kanishk Sachdeva</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishk-sachdeva&label=Profile%20views&color=0e75b6&style=flat" alt="kanishk-sachdeva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishk-sachdeva" alt="kanishk-sachdeva" /></a> </p>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently student in [Centennial college](https://centennialcollege.ca)
-
 - 🌱 I’m currently learning **React, JavaScript, never-ending list**
-
-- 👯 I’m looking to collaborate on **Big projects**
-
-- 🤝 I’m looking for help with **new projects**
-
+- 👯 I’m looking to collaborate on **Big projects** and help with **new projects**
 - 👨‍💻 All of my projects are available at [http://kanishksachdeva.herokuapp.com/projects](http://kanishksachdeva.herokuapp.com/projects)
-
-- 👨‍💻 All of my academic projects are available at [http://studentweb.cencol.ca/ksachde7](http://studentweb.cencol.ca/ksachde7)
-
 - 💬 Ask me about **anything (I am like a open-book)**
-
-- 📫 How to reach me **kskanu2020@gmail.com**
-
+- 📫 How to reach me **kanishk.sachdeva@icloud.com**
 - 📄 Know about my experiences [http://kanishksachdeva.herokuapp.com/resume](http://kanishksachdeva.herokuapp.com/resume)
 
 - ⚡ Fun fact **I love doing fights to prove me right but always lose up.**
@@ -36,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishk-sachdeva&show_icons=true&locale=en&layout=compact" alt="kanishk-sachdeva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishk-sachdeva&show_icons=true&locale=en" alt="kanishk-sachdeva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk-sachdeva&" alt="kanishk-sachdeva" /></p>
